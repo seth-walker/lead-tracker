@@ -1,0 +1,8 @@
+# Environment files
+.env
+
+# Virtual environment
+venv/
+
+# Database files
+*.db
