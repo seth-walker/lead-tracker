@@ -2,6 +2,9 @@ fastapi
 uvicorn[standard]
 sqlalchemy
 pydantic[email]
-python-multipart    
+python-multipart
 fastapi-mail
-python-dotenv       
+python-dotenv
+pytest
+pytest-asyncio
+pytest-mock       
